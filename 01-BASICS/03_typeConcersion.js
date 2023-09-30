@@ -15,3 +15,13 @@ let element ="3asd"
 let toNumber=Number (element);
 console.log(toNumber);// it returns null
 console.log( typeof toNumber);
+
+
+console.log(2**3)
+console.log(2+2);
+console.log(4-2);
+console.log(2/3);
+console.log(7%3);
+// console.log(2++);
+// console.log(--4);
+console.log(2*2-"3");
