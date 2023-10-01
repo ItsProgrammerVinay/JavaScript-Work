@@ -35,3 +35,7 @@ let sDate = new Date()
 console.log(sDate);
 console.log(sDate.getMonth() + 1);
 console.log(sDate.getDay());
+
+
+let demoDate=new Date(2023,1,23,5,3)
+console.log(demoDate.toDateString());
